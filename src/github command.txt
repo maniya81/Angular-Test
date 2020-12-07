@@ -1,2 +1,0 @@
-ng build --prod --baseHref="https://maniya81.github.io/Angular-Test/"
-firebase deploy --only hosting:maniyasagar
